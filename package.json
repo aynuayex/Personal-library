@@ -1,7 +1,7 @@
 {
 	"name": "fcc-library",
 	"version": "1.0.0",
-	"description": "boilerplate",
+	"description": "fcc-Personal Library project",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js",
@@ -19,7 +19,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-project-library"
+		"url": "https://github.com/aynuayex/Personal-library"
 	},
 	"keywords": [
 		"node",
